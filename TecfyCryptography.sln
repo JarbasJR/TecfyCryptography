@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecfyCryptography", "TecfyCryptography\TecfyCryptography.csproj", "{C9A7E69E-5720-49EB-A7C3-A0842CC42ECC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupCryptography", "SetupCryptography\SetupCryptography.vdproj", "{45C146E9-60A6-4C50-8030-97B9DF0532BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A7E69E-5720-49EB-A7C3-A0842CC42ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A7E69E-5720-49EB-A7C3-A0842CC42ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A7E69E-5720-49EB-A7C3-A0842CC42ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A7E69E-5720-49EB-A7C3-A0842CC42ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C146E9-60A6-4C50-8030-97B9DF0532BE}.Debug|Any CPU.ActiveCfg = Debug
+		{45C146E9-60A6-4C50-8030-97B9DF0532BE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB79CFB-09D4-4B2C-A2FE-7863B4B1B010}
+	EndGlobalSection
+EndGlobal

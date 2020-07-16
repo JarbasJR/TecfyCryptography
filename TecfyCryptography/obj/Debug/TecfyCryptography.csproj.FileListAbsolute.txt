@@ -1,0 +1,10 @@
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\bin\Debug\TecfyCryptography.exe.config
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\bin\Debug\TecfyCryptography.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\bin\Debug\TecfyCryptography.pdb
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.csprojAssemblyReference.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.Form1.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.Properties.Resources.resources
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.csproj.GenerateResource.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.csproj.CoreCompileInputs.cache
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.exe
+C:\Users\jarbas.silva\Desktop\Projeto WebService\Desenvolvimentos\TecfyCryptography\TecfyCryptography\obj\Debug\TecfyCryptography.pdb
